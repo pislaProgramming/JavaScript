@@ -17,3 +17,9 @@
 # Promises
   * .then, .catch
   * Promises chaining
+  
+# AJAX
+ * Asynchronous JavaScript and XML
+ * Cu AJAX website-urile pot trimite si cere informatii(in spate) fara a modifica pagina curenta => Single Page Application
+ * XML and JSON data formats
+ * XHR
