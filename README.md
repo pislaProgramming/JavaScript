@@ -26,3 +26,18 @@
  * fetch API
  * jQuery requests
  * Axios library for HTTP requests
+ 
+# Testing With Jasmine
+ * Unit Tests
+ * Jasmine is a BDD framework
+ * Essential keywords (describe, it, expect)
+ * Matchers
+ * Spies
+ * Clocks
+ * Async tests ( done() )
+ * TDD (Test Driven Development)
+ * BDD (Behavior Driven Development)
+ * Different Types of Tests
+   - Integration Tests
+   - Acceptance Tests
+   - Stress Tests
