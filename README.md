@@ -24,3 +24,5 @@
  * XML and JSON data formats
  * XHR
  * fetch API
+ * jQuery requests
+ * Axios library for HTTP requests
