@@ -41,3 +41,18 @@
    - Integration Tests
    - Acceptance Tests
    - Stress Tests
+   
+# Closures
+ * A closure is a function that makes use of variables defined in outer functions that have previously returned
+ * Private variables
+ 
+# 'this' keyword
+ * Determined in execution time
+ * For a function which run is set a 'this' argument
+ * Rules of determination
+   - Global context
+   - Implicit Binding
+   - Explicit Binding (Call, Apply, Bind)
+   - 'new' keyword (OOP)
+ 
+ 
