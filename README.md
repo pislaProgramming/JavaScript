@@ -54,5 +54,10 @@
    - Implicit Binding
    - Explicit Binding (Call, Apply, Bind)
    - 'new' keyword (OOP)
+   
+# OOP
+ * 'new' keyword
+ * Prototypes
+ * Inheritance
  
  
